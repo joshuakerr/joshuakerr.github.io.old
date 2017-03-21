@@ -3,7 +3,9 @@
 
 ## Welcome
 
-This is a landing page for **Joshua Kerr**. It will eventually be updated.
+This is a landing page for Joshua Kerr. It will eventually be updated.
 
 Todo:
- * Get the theme working.
+ - Migrate from weebly.
+ - Change weebly to link here.
+ - Fix the old "about.me" site (perhaps delete?)
