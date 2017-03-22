@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
+gems:
+  - jekyll-sitemap
 
 title: "Joshua Kerr"
 description: "Graduate Student in Philosophy, University of Oregon"
