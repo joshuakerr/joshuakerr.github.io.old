@@ -6,17 +6,17 @@
 
 /*
 
+*/
 body {
   background-color: #fff;
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#727272;
+  color:{{site.textcolor}};
   font-weight:400;
 }
 
-*/
 h1, h2, h3, h4, h5, h6 {
-  color:{{site.h1color}};
+  color:#222222;
   margin:0 0 20px;
 }
 
@@ -29,15 +29,17 @@ h1, h2, h3 {
 }
 
 h1 {
+  color:{{site.h1color}}
   font-size:28px;
 }
 
 h2 {
-  color:#393939;
+  color:#398839;    /* green */
 }
 
 h3, h4, h5, h6 {
-  color:#494949;
+  color:#496649;    /* green */
+  margin:0 0 10px;
 }
 /*
 
