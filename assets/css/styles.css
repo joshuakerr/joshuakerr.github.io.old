@@ -144,19 +144,13 @@ header {
 }
 
 header a {
-  line-height:1;
-  font-size:11px;
-  color:#999;
-  display:block;
-  text-align:center;
-  padding-top:6px;
-  height:34px;
+  color:#727272;
+  text-decoration:none;
 }
 
-header ul a:hover {
-  color:#999;
+header a:hover {
+  color:#727272;
 }
-
 
 /* ============ */
 /* == Footer == */
