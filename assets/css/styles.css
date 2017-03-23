@@ -200,6 +200,7 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+*/
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
@@ -214,7 +215,7 @@ footer {
   }
 
   header {
-    padding-right:320px;
+    padding:0;
   }
 
   section {
@@ -234,23 +235,14 @@ footer {
     top:52px;
   }
 }
+/*
 
 @media print, screen and (max-width: 720px) {
-  body {
-    word-wrap:break-word;
-  }
-
-  header {
-    padding:0;
-  }
 
   header ul, header p.view {
     position:static;
   }
 
-  pre, code {
-    word-wrap:normal;
-  }
 }
 
 @media print, screen and (max-width: 480px) {
