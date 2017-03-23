@@ -16,7 +16,7 @@ body {
 
 */
 h1, h2, h3, h4, h5, h6 {
-  color:#22AA22;
+  color:{{site.h1color}};
   margin:0 0 20px;
 }
 
@@ -33,7 +33,7 @@ h1 {
 }
 
 h2 {
-  color:#39AA39;
+  color:#393939;
 }
 
 h3, h4, h5, h6 {
