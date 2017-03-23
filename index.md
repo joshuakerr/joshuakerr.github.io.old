@@ -32,6 +32,7 @@ Todo:
  California State University, Stanislaus | 2007
  Thesis: The Concept of Wildness in the Poetry of Gary Snyder
 
+
  Studies
 Areas of Specialization
 Philosophy of nature
