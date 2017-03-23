@@ -11,6 +11,20 @@ As a teacher, I believe philosophy to be an art of interpreting and transforming
 
 ---
 
+## Studies
+
+#### Areas of Specialization
+- Philosophy of Nature
+- Philosophy of Literature
+
+#### Areas of Competence
+- 19th-20th Century European Philosophy
+- History of Western Philosophy
+- Classical and Non-Classical Formal Logic
+- Critical Thinking
+
+---
+
 ## Education
 
 #### PhD., Philosophy
@@ -28,20 +42,6 @@ As a teacher, I believe philosophy to be an art of interpreting and transforming
 #### B.A., Philosophy
 - California State University, Stanislaus (2007)
 - Thesis: The Concept of Wildness in the Poetry of Gary Snyder
-
----
-
-## Studies
-
-#### Areas of Specialization
-- Philosophy of nature
-- Philosophy of literature
-
-#### Areas of Competence
-- 19th-20th Century European Philosophy
-- History of Western Philosophy
-- Classical and non-classical formal logic
-- Critical thinking
 
 ---
 
