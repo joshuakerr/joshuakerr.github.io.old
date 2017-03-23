@@ -136,7 +136,7 @@ header {
   width:100%;
   background-color: #AAAAAA;
   float:top;
-  position:fixed;
+  position:absolute;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
