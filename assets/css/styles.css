@@ -139,6 +139,14 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+header h1 {
+    margin:0 0 5px;
+}
+
+header p {
+    margin:0 0 5px;
+}
+
 header a {
   font-size:14px;
   color:#727272;
