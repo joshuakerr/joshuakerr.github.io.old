@@ -130,15 +130,15 @@ strong {
 
 /* ============ */
 /* == Navbar == */
-ul.nav {
+.navigation ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: #333;
 }
-
-li.nav {
+/*
+.nav li {
     float: left;
 }
 
@@ -154,7 +154,7 @@ li.nav a {
 li.nav a:hover {
     background-color: #111;
 }
-
+*/
 
 /* ============ */
 /* == Header == */
