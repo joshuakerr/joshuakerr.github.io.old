@@ -25,23 +25,23 @@
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        <p>
+        <p><ul>
             {% if site.email %}
-                <i class="fa fa-envelope"></i> <a href="mailto: {{site.email}}">Email</a> |
+                <li><i class="fa fa-envelope"></i> <a href="mailto: {{site.email}}">Email</a> |
             {% endif %}
             {% if site.website %}
-                <i class="fa fa-globe"></i> <a href="http://{{site.website}}" target="_blank">Website</a> |
+                <li><i class="fa fa-globe"></i> <a href="http://{{site.website}}" target="_blank">Website</a> |
             {% endif %}
             {% if site.academiaedu %}
-                <i class="fa fa-graduation-cap"></i> <a href="http://{{site.academiaedu}}" target="_blank">Academia.edu</a> |
+                <li><i class="fa fa-graduation-cap"></i> <a href="http://{{site.academiaedu}}" target="_blank">Academia.edu</a> |
             {% endif %}
             {% if site.linkedin %}
-                <i class="fa fa-linkedin"></i> <a href="https://in.linkedin.com/in/{{site.linkedin}}" target="_blank">LinkedIn</a> |
+                <li><i class="fa fa-linkedin"></i> <a href="https://in.linkedin.com/in/{{site.linkedin}}" target="_blank">LinkedIn</a> |
             {% endif %}
             {% if site.github %}
-                <i class="fa fa-github"></i> <a href="http://github.com/{{site.github}}" target="_blank">GitHub</a>
+                <li><i class="fa fa-github"></i> <a href="http://github.com/{{site.github}}" target="_blank">GitHub</a>
             {% endif %}
-        </p>
+        </ul></p>
 
       </header>
 
