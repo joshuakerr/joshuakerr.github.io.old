@@ -132,10 +132,6 @@ strong {
 
 /* ============ */
 /* == Header == */
-header a {
-  font-size:12px;
-}
-
 header {
   width:270px;
   float:left;
@@ -144,8 +140,8 @@ header {
 }
 
 header a {
+  font-size:14px;
   color:#727272;
-  text-decoration:none;
 }
 
 header a:hover {
