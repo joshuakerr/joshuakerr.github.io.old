@@ -134,7 +134,7 @@ strong {
 /* == Header == */
 header {
   width:270px;
-  background-color: #FFFFFF;
+  /* background-color:#FFFFFF; */
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -149,7 +149,7 @@ header p {
 }
 
 header a {
-  font-size:14px;
+  font-size:16px;
   color:#727272;
 }
 
@@ -185,6 +185,7 @@ footer {
 
   header {
     padding:0;
+    text-align:right;
   }
 
   section {
