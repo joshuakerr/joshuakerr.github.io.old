@@ -138,7 +138,6 @@ header {
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
-  text-align:right;
 }
 
 header h1 {
