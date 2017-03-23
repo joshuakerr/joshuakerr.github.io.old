@@ -1,7 +1,7 @@
 ---
 ---
 
-/* @import "{{ site.theme }}" 
+/* @import "{{ site.theme }}" */
 
 
 body {
@@ -272,4 +272,4 @@ footer {
     color:#444;
   }
 }
-*/
+
