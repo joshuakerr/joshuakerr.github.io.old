@@ -9,13 +9,14 @@
 body {
   background-color: #fff;
   padding:50px;
-  font: 14px/1.5 Times, "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:400;
 }
 
+*/
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
+  color:#22AA22;
   margin:0 0 20px;
 }
 
@@ -32,12 +33,13 @@ h1 {
 }
 
 h2 {
-  color:#393939;
+  color:#39AA39;
 }
 
 h3, h4, h5, h6 {
   color:#494949;
 }
+/*
 
 a {
   color:#39c;
