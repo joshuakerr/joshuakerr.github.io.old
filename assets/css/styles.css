@@ -1,9 +1,6 @@
 ---
 ---
 
-/*  Here are the overrides to change the defaults
-    We comment out everything, then uncomment what we want to change */
-
 /* ============= */
 /* == General == */
 body {
@@ -50,7 +47,6 @@ a:hover {
   color:{{site.linkcolorhover}};
 }
 
-/*
 a small {
   font-size:11px;
   color:#777;
@@ -132,8 +128,6 @@ strong {
   color:#222;
   font-weight:700;
 }
-
-*/
 
 
 /* ============ */
@@ -251,7 +245,6 @@ footer {
     top:52px;
   }
 }
-/*
 
 @media print, screen and (max-width: 720px) {
 
@@ -282,5 +275,3 @@ footer {
     color:#444;
   }
 }
-
-*/
