@@ -50,6 +50,10 @@ a {
 a:hover {
   color:{{site.linkcolorhover}};
 }
+
+header a {
+  font-size:12px;
+}
 /*
 
 a small {
