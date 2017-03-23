@@ -9,23 +9,27 @@ My research focuses on two primary areas. First, I study environmental philosoph
 
 As a teacher, I believe philosophy to be an art of interpreting and transforming the world. I strive to help students discover the pleasures of philosophical exploration and develop the capacity for careful interpretation of both philosophical texts and the world around them. I also believe that learning to sympathetically understanding ideas that appear strange and foreign is a fundamental part of education. For these reasons, I enjoy teaching classes in the history of philosophy, especially ancient and modern philosophy, and I like teaching critical thinking and logic.
 
+---
+
 ## Education
 
-#### PhD., Philosophy (in progress)
-- University of Oregon
+#### PhD., Philosophy
+- University of Oregon (in progress, expected 2019)
 - Dissertation: TBA
 
-#### M.A., Philosophy (in progress)
-- University of Oregon
+#### M.A., Philosophy
+- University of Oregon (in progress, expected 2017)
 - History Paper: TBA
 
 #### M.A., Philosophy and Literary Studies
-- California State University, Stanislaus | 2014
+- California State University, Stanislaus (2014)
 - Thesis: The Imperceptibility of Plant Living
 
 #### B.A., Philosophy
-- California State University, Stanislaus | 2007
+- California State University, Stanislaus (2007)
 - Thesis: The Concept of Wildness in the Poetry of Gary Snyder
+
+---
 
 ## Studies
 
@@ -38,6 +42,8 @@ As a teacher, I believe philosophy to be an art of interpreting and transforming
 - History of Western Philosophy
 - Classical and non-classical formal logic
 - Critical thinking
+
+---
 
 ## Teaching
 
@@ -62,6 +68,8 @@ As a teacher, I believe philosophy to be an art of interpreting and transforming
 - F08: Introduction to Composition (ENGL 1000)
 
 \* denotes graduate teaching assistant responsibilities rather than solo teaching.
+
+---
 
 ## Publications
 - "Philosophical Concepts of Wildness in the Poetry of Gary Snyder," Entries: A Journal of Exploratory Research, a publication of the CSU Stanislaus University Honors Program (May 2007) , pp. 1-8.
