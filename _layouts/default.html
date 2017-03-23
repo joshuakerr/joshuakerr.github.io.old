@@ -21,16 +21,18 @@
     <div class="wrapper">
 
       <!-- Header -->
-      {% include header.html %}
+      <header>
+          {% include header.html %}
+      </header>
 
       <!-- Body -->
       <section>
-      {{ content }}
+          {{ content }}
       </section>
 
       <!-- Footer -->
       <footer>
-        <!-- <p><small>Hosted on GitHub Pages.</small></p> -->
+          {% include footer.html %}
       </footer>
 
     </div>
