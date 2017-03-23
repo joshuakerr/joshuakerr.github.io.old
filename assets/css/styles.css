@@ -108,9 +108,9 @@ img {
 }
 
 header {
-  width:auto;
-  float:none;
-  position:static;
+  width:270px;
+  float:left;
+  position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
@@ -198,8 +198,6 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-/* Let's fix the following stuff later
-
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
@@ -274,5 +272,3 @@ footer {
     color:#444;
   }
 }
-
-*/
