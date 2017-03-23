@@ -34,11 +34,11 @@ h1 {
 }
 
 h2 {
-  color:#398839;    /* green */
+  color:{{site.h2color}};
 }
 
 h3, h4, h5, h6 {
-  color:#496649;    /* green */
+  color:{{site.h3456color}};
   margin:0 0 5px;
 }
 /*
