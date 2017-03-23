@@ -29,7 +29,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  color:{{site.h1color}}
+  color:{{site.h1color}};
   font-size:28px;
 }
 
