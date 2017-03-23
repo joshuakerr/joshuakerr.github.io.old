@@ -130,11 +130,7 @@ strong {
 
 /* ============ */
 /* == Navbar == */
-nav {
-    width:100%;
-}
-
-nav ul {
+ul.nav {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -142,11 +138,11 @@ nav ul {
     background-color: #333;
 }
 
-nav li {
+li.nav {
     float: left;
 }
 
-nav li a {
+li.nav a {
     display: block;
     color: white;
     text-align: center;
@@ -155,7 +151,7 @@ nav li a {
 }
 
 /* Change the link color to #111 (black) on hover */
-nav li a:hover {
+li.nav a:hover {
     background-color: #111;
 }
 
