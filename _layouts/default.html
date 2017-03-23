@@ -20,10 +20,13 @@
     <div class="wrapper">
 
       <header>
+
+        <!-- I have all this in /layouts/header.html and would like to simply include it... -->
+
         <link rel="stylesheet" href="{{site.baseurl}}/assets/plugins/font-awesome/css/font-awesome.css">
 
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <h1>{{ site.title }}</h1>
+        <p>{{ site.description }}</p>
 
         <p>
             {% if site.email %}
