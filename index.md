@@ -71,10 +71,12 @@ As a teacher, I believe philosophy to be an art of interpreting and transforming
 
 ---
 
-## Publications
+## Writing and Speaking
+
+### Publications
 - "Philosophical Concepts of Wildness in the Poetry of Gary Snyder," Entries: A Journal of Exploratory Research, a publication of the CSU Stanislaus University Honors Program (May 2007) , pp. 1-8.
 
-## Presentations
+### Presentations
 - "Transversal Sounds, Sonorous Thoughts: on Poetry and Philosophy," Transformable Identities Conference, Oregon State University, March 10-11, 2017
 - "Rodolfo Kusch's Philosophical Logic," Trans-American Experience Conference, University of Oregon, November 5-6, 2015
 - "Comets and Volcanoes: Calvino and the Festivity of Language," The Seventh Annual Meeting of The Pacific Association for the Continental Tradition, Seattle University, September 24-26, 2015
