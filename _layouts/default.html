@@ -19,12 +19,11 @@
   <body>
 
       <!-- Nav bar -->
-      {% assign current = page.url | downcase | split: '/' %}
       <nav>
         <ul>
-          <li><a href='/' {% if current[1] == 'index' %}class='current'{% endif %}>Home</a></li>
-          <li><a href='/cv' {% if current[1] == 'cv' %}class='current'{% endif %}>C.V.</a></li>
-          <li><a href='/about' {% if current[1] == 'about' %}class='current'{% endif %}>About</a></li>
+          <li><a href='/'>Home</a></li>
+          <li><a href='/pages/cv.html'>C.V.</a></li>
+          <li><a href='/pages/about.html'>About</a></li>
         </ul>
       </nav>
 
