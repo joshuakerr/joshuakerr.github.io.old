@@ -11,21 +11,21 @@ As a teacher, I believe philosophy to be an art of interpreting and transforming
 
 ## Education
 
-### PhD., Philosophy (in progress)
-University of Oregon
-Dissertation: TBA
+#### PhD., Philosophy (in progress)
+    - University of Oregon
+    - Dissertation: TBA
 
-### M.A., Philosophy (in progress)
-University of Oregon
-History Paper: TBA
+#### M.A., Philosophy (in progress)
+    - University of Oregon
+    - History Paper: TBA
 
-### M.A., Philosophy and Literary Studies
-California State University, Stanislaus | 2014
-Thesis: The Imperceptibility of Plant Living
+#### M.A., Philosophy and Literary Studies
+    - California State University, Stanislaus | 2014
+    - Thesis: The Imperceptibility of Plant Living
 
-### B.A., Philosophy
-California State University, Stanislaus | 2007
-Thesis: The Concept of Wildness in the Poetry of Gary Snyder
+#### B.A., Philosophy
+    - California State University, Stanislaus | 2007
+    - Thesis: The Concept of Wildness in the Poetry of Gary Snyder
 
 ## Studies
 Areas of Specialization
