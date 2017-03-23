@@ -1,13 +1,8 @@
 ---
 ---
 
-@import "{{ site.theme }}"
+/* @import "{{ site.theme }}" */
 
-
-
-
-
-/*
 
 body {
   background-color: #fff;
@@ -202,6 +197,8 @@ footer {
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
+
+/*
 
 @media print, screen and (max-width: 960px) {
 
