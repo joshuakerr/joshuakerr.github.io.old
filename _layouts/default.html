@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>{{ site.title | default: site.github.repository_name }} by {{ site.github.owner_name }}</title>
 
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <!-- <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}"> -->
     <!-- Adding my own stylesheet here -->
         <link rel="stylesheet" href="{{site.baseurl}}/assets/css/styles.css">
     <!-- end addition -->
@@ -27,16 +27,16 @@
 
         <p><ul>
             {% if site.email %}
-                <li><i class="fa fa-envelope"></i> <a href="mailto: {{site.email}}">Email</a> |
+                <li><i class="fa fa-envelope"></i> <a href="mailto: {{site.email}}">Email</a>
             {% endif %}
             {% if site.website %}
-                <li><i class="fa fa-globe"></i> <a href="http://{{site.website}}" target="_blank">Website</a> |
+                <li><i class="fa fa-globe"></i> <a href="http://{{site.website}}" target="_blank">Website</a>
             {% endif %}
             {% if site.academiaedu %}
-                <li><i class="fa fa-graduation-cap"></i> <a href="http://{{site.academiaedu}}" target="_blank">Academia.edu</a> |
+                <li><i class="fa fa-graduation-cap"></i> <a href="http://{{site.academiaedu}}" target="_blank">Academia.edu</a>
             {% endif %}
             {% if site.linkedin %}
-                <li><i class="fa fa-linkedin"></i> <a href="https://in.linkedin.com/in/{{site.linkedin}}" target="_blank">LinkedIn</a> |
+                <li><i class="fa fa-linkedin"></i> <a href="https://in.linkedin.com/in/{{site.linkedin}}" target="_blank">LinkedIn</a>
             {% endif %}
             {% if site.github %}
                 <li><i class="fa fa-github"></i> <a href="http://github.com/{{site.github}}" target="_blank">GitHub</a>

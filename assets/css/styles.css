@@ -4,9 +4,8 @@
 /*  Here are the overrides to change the defaults
     We comment out everything, then uncomment what we want to change */
 
-/*
-
-*/
+/* ============= */
+/* == General == */
 body {
   background-color: #fff;
   padding:50px;
@@ -51,11 +50,7 @@ a:hover {
   color:{{site.linkcolorhover}};
 }
 
-header a {
-  font-size:12px;
-}
 /*
-
 a small {
   font-size:11px;
   color:#777;
@@ -117,6 +112,36 @@ img {
   max-width:100%;
 }
 
+section {
+  width:500px;
+  float:right;
+  padding-bottom:50px;
+}
+
+small {
+  font-size:11px;
+}
+
+hr {
+  border:0;
+  background:#e5e5e5;
+  height:1px;
+  margin:0 0 20px;
+}
+strong {
+  color:#222;
+  font-weight:700;
+}
+
+*/
+
+
+/* ============ */
+/* == Header == */
+header a {
+  font-size:12px;
+}
+
 header {
   width:270px;
   float:left;
@@ -167,11 +192,6 @@ header ul a:active {
   background-color:#f0f0f0;
 }
 
-strong {
-  color:#222;
-  font-weight:700;
-}
-
 header ul li + li + li {
   border-right:none;
   width:89px;
@@ -183,23 +203,9 @@ header ul a strong {
   color:#222;
 }
 
-section {
-  width:500px;
-  float:right;
-  padding-bottom:50px;
-}
 
-small {
-  font-size:11px;
-}
-
-hr {
-  border:0;
-  background:#e5e5e5;
-  height:1px;
-  margin:0 0 20px;
-}
-
+/* ============ */
+/* == Footer == */
 footer {
   width:270px;
   float:left;
@@ -208,7 +214,9 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-*/
+
+/* ======================== */
+/* == Screen adjustments == */
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
