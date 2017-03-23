@@ -5,7 +5,7 @@ body {
   background-color: #fff;
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:{{site.textcolor}};
+  color:#727272;
   font-weight:400;
 }
 
@@ -23,26 +23,26 @@ h1, h2, h3 {
 }
 
 h1 {
-  color:{{site.h1color}};
+  color:#397739;
   font-size:28px;
 }
 
 h2 {
-  color:{{site.h2color}};
+  color:#397739;
 }
 
 h3, h4, h5, h6 {
-  color:{{site.h3456color}};
+  color:#496649;
   margin:0 0 5px;
 }
 
 a {
-  color:{{site.linkcolor}};
+  color:#3c9;
   text-decoration:none;
 }
 
 a:hover {
-  color:{{site.linkcolorhover}};
+  color:#096;
 }
 
 a small {
@@ -125,6 +125,14 @@ hr {
 strong {
   color:#222;
   font-weight:700;
+}
+
+
+/* ============ */
+/* == Navbar == */
+nav {
+    width:100%;
+
 }
 
 
