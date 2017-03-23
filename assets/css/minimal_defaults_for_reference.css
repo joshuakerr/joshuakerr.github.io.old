@@ -2,9 +2,9 @@
 @import "rouge-github";
 
 body {
-  background-color: #ff0;
+  background-color: #ff0; /* changed from #fff */
   padding:50px;
-  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 14px/1.5 /* "Noto Sans", "Helvetica Neue", Helvetica, Arial, */ sans-serif;
   color:#727272;
   font-weight:400;
 }
