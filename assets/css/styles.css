@@ -134,7 +134,7 @@ strong {
 /* == Header == */
 header {
   width:270px;
-  /* background-color:#FFFFFF; */
+  background-color:#AAAAAA;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
