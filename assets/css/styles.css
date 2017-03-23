@@ -21,7 +21,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p, ul, ol, table, pre, dl {
-  margin:0 0 10px;
+  margin:0 0 20px;
 }
 
 h1, h2, h3 {
@@ -41,16 +41,16 @@ h3, h4, h5, h6 {
   color:{{site.h3456color}};
   margin:0 0 5px;
 }
-/*
 
 a {
-  color:#39c;
+  color:{{site.linkcolor}};
   text-decoration:none;
 }
 
 a:hover {
-  color:#069;
+  color:{{site.linkcolorhover}};
 }
+/*
 
 a small {
   font-size:11px;
