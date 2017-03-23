@@ -3,37 +3,31 @@
 
 ## Welcome
 
-This is a landing page for Joshua Kerr. It will eventually be updated.
+I am a graduate student in the Department of Philosophy at the University of Oregon.
 
-Todo:
- - Migrate from weebly.
- - Change weebly to link here.
- - Fix the old "about.me" site (perhaps delete?)
+My research focuses on two primary areas. First, I study environmental philosophy, particularly the philosophy of plants. Drawing both on broadly interdisciplinary approaches to plant life and the role of plants in the history of philosophy, I am interested in the challenges plants pose to traditional approaches to ontology and ethics. Second, I study the philosophy of literature, particularly poetry. I am interested in the relationship between literature, language, and non-linguistic expression, especially as it emerges in 20th century Continental philosophers such as Heidegger and Merleau-Ponty. In this respect, I also study literary writers such as Wallace Stevens, Italo Calvino, and Wallace Stevens.
 
- I am a graduate student in the Department of Philosophy at the University of Oregon.
+As a teacher, I believe philosophy to be an art of interpreting and transforming the world. I strive to help students discover the pleasures of philosophical exploration and develop the capacity for careful interpretation of both philosophical texts and the world around them. I also believe that learning to sympathetically understanding ideas that appear strange and foreign is a fundamental part of education. For these reasons, I enjoy teaching classes in the history of philosophy, especially ancient and modern philosophy, and I like teaching critical thinking and logic.
 
- My research focuses on two primary areas. First, I study environmental philosophy, particularly the philosophy of plants. Drawing both on broadly interdisciplinary approaches to plant life and the role of plants in the history of philosophy, I am interested in the challenges plants pose to traditional approaches to ontology and ethics. Second, I study the philosophy of literature, particularly poetry. I am interested in the relationship between literature, language, and non-linguistic expression, especially as it emerges in 20th century Continental philosophers such as Heidegger and Merleau-Ponty. In this respect, I also study literary writers such as Wallace Stevens, Italo Calvino, and Wallace Stevens.
+## Education
 
- As a teacher, I believe philosophy to be an art of interpreting and transforming the world. I strive to help students discover the pleasures of philosophical exploration and develop the capacity for careful interpretation of both philosophical texts and the world around them. I also believe that learning to sympathetically understanding ideas that appear strange and foreign is a fundamental part of education. For these reasons, I enjoy teaching classes in the history of philosophy, especially ancient and modern philosophy, and I like teaching critical thinking and logic.
- Education
- PhD., Philosophy (in progress)
- University of Oregon
- Dissertation: TBA
+### PhD., Philosophy (in progress)
+University of Oregon
+Dissertation: TBA
 
- M.A., Philosophy (in progress)
- University of Oregon
- History Paper: TBA
+### M.A., Philosophy (in progress)
+University of Oregon
+History Paper: TBA
 
- M.A., Philosophy and Literary Studies
- California State University, Stanislaus | 2014
- Thesis: The Imperceptibility of Plant Living
+### M.A., Philosophy and Literary Studies
+California State University, Stanislaus | 2014
+Thesis: The Imperceptibility of Plant Living
 
- B.A., Philosophy
- California State University, Stanislaus | 2007
- Thesis: The Concept of Wildness in the Poetry of Gary Snyder
+### B.A., Philosophy
+California State University, Stanislaus | 2007
+Thesis: The Concept of Wildness in the Poetry of Gary Snyder
 
-
- Studies
+## Studies
 Areas of Specialization
 Philosophy of nature
 Philosophy of literature
