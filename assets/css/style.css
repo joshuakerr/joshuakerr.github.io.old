@@ -141,6 +141,7 @@ strong {
     padding: 0;
     overflow: hidden;
     background-color: #f3f3f3;
+    position: fixed;
 }
 
 .main-nav li {
