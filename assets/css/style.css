@@ -10,6 +10,7 @@ body {
 
 div.big-wrapper {
     padding: 50px;
+    padding-top: 100px; /* extra room for floating nav */
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -208,6 +209,10 @@ footer {
 /* ======================== */
 /* == Screen adjustments == */
 @media print, screen and (max-width: 960px) {
+
+  div.big-wrapper {
+      padding: 50px; /* get rid of extra room for floating nav */
+  }
 
   div.wrapper {
     width:auto;
