@@ -147,7 +147,7 @@ strong {
     padding: 0;
     padding-right: 20px;
     overflow: hidden;
-    background-color: #f3f3f3;
+    background-color: #ffffff;
 }
 
 .main-nav li {
@@ -165,7 +165,7 @@ strong {
 
 /* Change the link color to #111 (black) on hover */
 .main-nav li a:hover {
-    background-color: #ddd;
+    background-color: #eeeeee;
 }
 
 
