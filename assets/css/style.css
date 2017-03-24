@@ -59,7 +59,6 @@ a:hover small {
 .wrapper {
   width:860px;
   margin:0 auto;
-  margin-top: 100px;
 }
 
 blockquote {
@@ -147,11 +146,6 @@ strong {
 
 .main-nav li {
     float: right;
-    /* border-left:1px solid #bbb; */
-}
-
-.main-nav li:last-child {
-    border-left: none;
 }
 
 .main-nav li a {
@@ -243,6 +237,34 @@ footer {
     right:50px;
     top:52px;
   }
+
+  .main-nav {
+      width: 100%;
+      padding-bottom: 50px;
+      position: static;
+  }
+
+  .main-nav ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #f3f3f3;
+  }
+
+  .main-nav li {
+      float: right;
+  }
+
+  .main-nav li a {
+      display: block;
+      color: #666;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-weight: bold;
+  }
+
 }
 
 @media print, screen and (max-width: 720px) {
