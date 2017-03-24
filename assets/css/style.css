@@ -248,16 +248,6 @@ footer {
     top:52px;
   }
 
-  .main-nav {
-      width: 100%;
-      padding-bottom: 0px;
-      position: static;
-  }
-
-  .main-nav li {
-      float: right;
-  }
-
 }
 
 @media print, screen and (max-width: 720px) {
@@ -274,9 +264,7 @@ footer {
   }
 
   .main-nav {
-      width: 100%;
       padding-bottom: 20px;
-      position: static;
   }
 
   header ul {
