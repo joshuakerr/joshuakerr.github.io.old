@@ -1,7 +1,7 @@
 ---
     layout: default
     title: About
-    tagline: About Joshua Kerr
+    tagline: About Me
 ---
 
 ## About Me

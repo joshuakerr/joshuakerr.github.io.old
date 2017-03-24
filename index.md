@@ -1,7 +1,7 @@
 ---
     layout: default
     title: Joshua Kerr
-    tagline: Joshua Kerr's Landing Page
+    tagline: Joshua Kerr
 ---
 
 ## Welcome
