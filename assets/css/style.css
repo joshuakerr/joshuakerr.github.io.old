@@ -137,12 +137,12 @@ strong {
     overflow: hidden;
     background-color: #333;
 }
-/*
-.nav li {
+
+.main-nav li {
     float: left;
 }
 
-li.nav a {
+.main-nav li a {
     display: block;
     color: white;
     text-align: center;
@@ -151,10 +151,10 @@ li.nav a {
 }
 
 /* Change the link color to #111 (black) on hover */
-li.nav a:hover {
+.main-nav li a:hover {
     background-color: #111;
 }
-*/
+
 
 /* ============ */
 /* == Header == */
