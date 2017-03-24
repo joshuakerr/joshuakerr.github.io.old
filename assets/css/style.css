@@ -263,7 +263,7 @@ footer {
 }
 
 @media print, screen and (max-width: 480px) {
-  .big-wrapper {
+  div.big-wrapper {
     padding:15px;
   }
 
@@ -283,7 +283,7 @@ footer {
     color:#444;
   }
 
-  .big-wrapper { /* we're switching the padding duties to the body tag here */
+  div.big-wrapper { /* we're switching the padding duties to the body tag here */
       padding: 0px;
   }
 }
