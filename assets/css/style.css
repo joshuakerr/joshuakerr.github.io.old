@@ -135,16 +135,21 @@ strong {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #f3f3f3;
 }
 
 .main-nav li {
-    float: left;
+    float: right;
+    border-left:1px solid #bbb;
+}
+
+.main-nav li:last-child {
+    border-left: none;
 }
 
 .main-nav li a {
     display: block;
-    color: white;
+    color: #666;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -152,7 +157,7 @@ strong {
 
 /* Change the link color to #111 (black) on hover */
 .main-nav li a:hover {
-    background-color: #111;
+    background-color: #ddd;
 }
 
 
