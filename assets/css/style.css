@@ -178,6 +178,7 @@ header {
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
+  text-align: left;
 }
 
 header h1 {
@@ -186,7 +187,6 @@ header h1 {
 
 header p {
     margin:0 0 10px;
-    text-align: left;
 }
 
 header a {
