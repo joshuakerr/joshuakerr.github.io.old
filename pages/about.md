@@ -6,6 +6,10 @@
 
 ## About Me
 
+Not sure what to say.
+
+## Hobbies
+
 In addition to my professional activities, I pursue a number of hobbies.
 
 ### Poetry
