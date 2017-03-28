@@ -6,7 +6,7 @@
 
 ## About Me
 
-![Joshua Kerr]("{{site.baseurl}}/images/portrait-small.jpg")
+![Joshua Kerr](/images/portrait-small.jpg)
 Not sure what to say.
 
 ## Hobbies
