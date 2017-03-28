@@ -21,20 +21,20 @@
 ## Education
 
 #### PhD., Philosophy
-- University of Oregon (in progress, expected 2019)
+- University of Oregon (in progress, expected 2019/20)
 - Dissertation: TBA
 
 #### M.A., Philosophy
 - University of Oregon (in progress, expected 2017)
-- History Paper: TBA
+- *Thinking Through Sound: Martin Heidegger and Wallace Stevens* (Dr. Alejandro Vallega)
 
 #### M.A., Philosophy and Literary Studies
 - California State University, Stanislaus (2014)
-- Thesis: The Imperceptibility of Plant Living
+- *The Imperceptibility of Plant Living* (Dr. Jason Winfree)
 
 #### B.A., Philosophy
 - California State University, Stanislaus (2007)
-- Thesis: The Concept of Wildness in the Poetry of Gary Snyder
+- *The Concept of Wildness in the Poetry of Gary Snyder* (Dr. James A. Tuedio)
 
 ---
 
