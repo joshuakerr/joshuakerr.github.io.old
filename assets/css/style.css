@@ -201,6 +201,11 @@ header a:hover {
   color:#727272;
 }
 
+div.portrait {
+    display: inline;
+    align-content: center;
+}
+
 /* ============ */
 /* == Footer == */
 footer {
@@ -251,6 +256,10 @@ footer {
     position:absolute;
     right:50px;
     top:52px;
+  }
+
+  div.portrait { /* remove portrait */
+      display: none;
   }
 
 }

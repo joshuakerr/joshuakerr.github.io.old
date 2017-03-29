@@ -22,24 +22,20 @@ Time is at a premium, but health is important. The goal is to balance these, whi
 
 #### Day One
 
-- Bodyline
-	- Plank (60s)
-	- Side Plank (30s each)
-	- Arch Hold (60s)
+- Plank (60s)
+- Side Plank (30s each)
+- Hollow Hold (60s)
 - Support Practice (60s)
-- Day One Triad
-	- Pullup Progression
-	- Dipping Progression
-	- L-Sit Progression
+- Pullup Progression
+- Dipping Progression
+- L-Sit Progression
 
 #### Day Two
 
-- Bodyline
-	- Plank (60s)
-	- Reverse Plank (60s)
-	- Hollow Hold (60s)
+- Plank (60s)
+- Reverse Plank (60s)
+- Arch Hold (60s)
 - Support Practice (60s)
-- Day Two Triad
-	- Squat Progression
-	- Pushup Progression
-	- Row Progression
+- Squat Progression
+- Pushup Progression
+- Row Progression
