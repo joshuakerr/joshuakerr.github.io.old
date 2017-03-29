@@ -181,7 +181,7 @@ header {
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
-  text-align: center;
+  text-align: left;
 }
 
 header h1 {
@@ -202,7 +202,8 @@ header a:hover {
 }
 
 div.portrait {
-    margin-top: 20px
+    margin-top: 20px;
+    text-align: center;
 }
 
 
