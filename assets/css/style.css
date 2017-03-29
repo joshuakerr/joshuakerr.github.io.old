@@ -205,11 +205,6 @@ div.portrait {
     margin-top: 20px
 }
 
-header img {
-    display: block; /* so it can be centered */
-    margin: auto;
-}
-
 
 /* ============ */
 /* == Footer == */
