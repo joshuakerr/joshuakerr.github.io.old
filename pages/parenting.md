@@ -14,7 +14,7 @@ Parenting is hard. While research shows that parenting decisions past a basic le
 	- A few very specific mistakes can make a big difference (the textbook example is lead exposure).
 	- Parenting might produce anxiety, with parents feeling unsure of how they can be confident in their parenting choices. Following the best research can provide such confidence.
 
-#### General Issues
+#### Science
 
 https://www.gwern.net/Iodine
 https://www.gwern.net/DNB%20FAQ
@@ -23,3 +23,9 @@ https://groups.google.com/d/msg/brain-training/HcU6pfiOXIE/O2hseVUkBToJ
 http://squid314.livejournal.com/346391.html
 http://lesswrong.com/lw/mhk/experiences_in_applying_the_biodeterminists_guide/
 https://parentingwithevidence.wordpress.com/
+
+#### Traditionalism
+
+https://orthosphere.wordpress.com/2017/05/11/tips-for-parenting/
+
+#### Other
