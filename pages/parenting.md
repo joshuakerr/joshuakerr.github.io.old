@@ -23,9 +23,12 @@ https://groups.google.com/d/msg/brain-training/HcU6pfiOXIE/O2hseVUkBToJ
 http://squid314.livejournal.com/346391.html
 http://lesswrong.com/lw/mhk/experiences_in_applying_the_biodeterminists_guide/
 https://parentingwithevidence.wordpress.com/
+https://www.ncbi.nlm.nih.gov/pubmed/21648056
 
 #### Traditionalism
 
 https://orthosphere.wordpress.com/2017/05/11/tips-for-parenting/
+http://www.socialmatter.net/2017/06/12/how-to-catch-a-wife/
+http://www.socialmatter.net/2017/06/09/call-wild-revolt-modernity/
 
 #### Other

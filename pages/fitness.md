@@ -39,3 +39,9 @@ Time is at a premium, but health is important. The goal is to balance these, whi
 - Squat Progression
 - Pushup Progression
 - Row Progression
+
+#### Links
+
+- Cheap rings: https://www.reddit.com/r/bodyweightfitness/comments/6j70kv/powerlifter_without_a_gym_for_two_months_looking/djcnua1/
+- Intermediate routine: https://www.reddit.com/r/bodyweightfitness/comments/6hewrm/can_someone_help_me_make_an_intermediate_routine/
+- 
