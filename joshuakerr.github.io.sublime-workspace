@@ -11,7 +11,7 @@
 			"file": "pages/fitness.md",
 			"settings":
 			{
-				"buffer_size": 1576,
+				"buffer_size": 3717,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -361,23 +361,33 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1576,
+						"buffer_size": 3717,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1576,
-								1576
+								3100,
+								3100
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/User/myAcademicMarkdown.tmLanguage"
+							"WordCount":
+							{
+								"changes": 25,
+								"count": 360,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"syntax": "Packages/User/myAcademicMarkdown.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 726.0,
+						"translation.y": 1558.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
