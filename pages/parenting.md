@@ -32,3 +32,7 @@ http://www.socialmatter.net/2017/06/12/how-to-catch-a-wife/
 http://www.socialmatter.net/2017/06/09/call-wild-revolt-modernity/
 
 #### Other
+
+#### Homeschooling
+
+https://evolutionistx.wordpress.com/2017/08/13/homeschooling-corner/
