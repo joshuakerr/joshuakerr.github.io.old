@@ -121,3 +121,4 @@ Time is at a premium, but health is important. The goal is to balance these, whi
 	- Thrusters (https://www.t-nation.com/training/tabata-method)
 	- Single leg dumbbell deadlift (https://www.youtube.com/watch?v=hWLg7MrA9y4)
 
+https://www.reddit.com/r/Fitness/comments/2e79y4/dumbbell_ppl_proposed_alternative_to_dumbbell/
