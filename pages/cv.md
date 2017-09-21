@@ -12,31 +12,33 @@
 
 #### Areas of Competence
 - 19th-20th Century European Philosophy
+- Ancient Philosophy
 - History of Western Philosophy
-- Classical and Non-Classical Formal Logic
-- Critical Thinking
+- Formal Logic & Critical Thinking
 
 ---
 
 ## Education
 
 #### PhD., Philosophy, University of Oregon (expected 2019/20)
-- Dissertation: TBA
+- Dissertation: *On the Hybris of Plants* (Dr. Daniela Vallega-Neu)
 
 #### M.A., Philosophy, University of Oregon (expected 2017)
-- *Thinking Through Sound: Martin Heidegger and Wallace Stevens* (Dr. Alejandro Vallega)
+- Thesis: *Thinking Through Sound: Martin Heidegger and Wallace Stevens* (Dr. Alejandro Vallega)
 
 #### M.A., Philosophy and Literary Studies, California State University Stanislaus (2014)
-- *The Imperceptibility of Plant Living* (Dr. Jason Winfree)
+- Thesis: *The Imperceptibility of Plant Living* (Dr. Jason Winfree)
 
 #### B.A., Philosophy, California State University Stanislaus (2007)
-- *The Concept of Wildness in the Poetry of Gary Snyder* (Dr. James A. Tuedio)
+- Thesis: *The Concept of Wildness in the Poetry of Gary Snyder* (Dr. James A. Tuedio)
 
 ---
 
 ## Teaching
 
 #### University of Oregon
+- W17: Humanities II (HUM 102)*
+- F17: Humanities I (HUM 101)*
 - S17: Ethics (PHIL 102)*
 - W17: Existentialism (PHIL 210)*
 - F16: Humanities I (HUM 101)*
@@ -63,7 +65,11 @@
 ## Publications
 - "Philosophical Concepts of Wildness in the Poetry of Gary Snyder," Entries: A Journal of Exploratory Research, a publication of the CSU Stanislaus University Honors Program (May 2007) , pp. 1-8.
 
-## Presentations
+## Invited Talks
+- "Thinking Through Sound: Martin Heidegger and Wallace Stevens," California State University, Stanislaus, September 28, 2017
+
+## Conference Presentations
+- "The Body of Language: Thinking Through Sound," The Ninth Annual Meeting of The Pacific Association for the Continental Tradition, University of San Francisco, September 28-30, 2017
 - "Transversal Sounds, Sonorous Thoughts: on Poetry and Philosophy," Transformable Identities Conference, Oregon State University, March 10-11, 2017
 - "Rodolfo Kusch's Philosophical Logic," Trans-American Experience Conference, University of Oregon, November 5-6, 2015
 - "Comets and Volcanoes: Calvino and the Festivity of Language," The Seventh Annual Meeting of The Pacific Association for the Continental Tradition, Seattle University, September 24-26, 2015
