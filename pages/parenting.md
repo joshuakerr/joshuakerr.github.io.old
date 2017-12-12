@@ -36,3 +36,5 @@ http://www.socialmatter.net/2017/06/09/call-wild-revolt-modernity/
 #### Homeschooling
 
 https://evolutionistx.wordpress.com/2017/08/13/homeschooling-corner/
+https://evolutionistx.wordpress.com/2017/10/02/homeschooling-corner-flying-kites/
+https://evolutionistx.wordpress.com/2017/10/22/homeschooling-corner-math-philosophy/
