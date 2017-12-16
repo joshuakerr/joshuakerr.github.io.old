@@ -5,6 +5,7 @@
 ---
 
 ## To the Colossians
+*Translated by Joshua Kerr, 2017*
 
 [1:1] Paul, an apostle of Christ Jesus through the will of God, and Timothy the brother, [2] to the holy and faithful brothers at Colossae: grace and peace to you in Christ from God our father.
 
