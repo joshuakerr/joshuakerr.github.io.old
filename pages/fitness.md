@@ -100,6 +100,8 @@ Time is at a premium, but health is important. The goal is to balance these, whi
 - https://www.youtube.com/watch?v=GmMfW2kCkeE
 - https://www.youtube.com/watch?v=QtH7lQrPoxU
 - https://www.youtube.com/watch?v=KvAto6yIGLY
+- overhead mobility: http://www.nick-e.com/overhead/
+
 
 #### Dumbbell Exercises
 
