@@ -38,3 +38,11 @@ http://www.socialmatter.net/2017/06/09/call-wild-revolt-modernity/
 https://evolutionistx.wordpress.com/2017/08/13/homeschooling-corner/
 https://evolutionistx.wordpress.com/2017/10/02/homeschooling-corner-flying-kites/
 https://evolutionistx.wordpress.com/2017/10/22/homeschooling-corner-math-philosophy/
+https://thomism.wordpress.com/2018/03/07/no-algebra-till-junior-year/
+http://www.theimaginativeconservative.org/2018/02/emotions-primer-george-stanciu.html
+
+#### Religious Education
+
+https://www.amazon.com/Doctrina-Christiana-Timeless-Catechism-Bellarmine/dp/0692758909/
+https://www.amazon.com/Baltimore-Catechism-Supplemental-Reading-Illustrated-ebook/dp/B00E9IDO9I/
+https://www.amazon.com/Baltimore-Catechism-Explanation-Christian-Doctrine/dp/1406912050/
