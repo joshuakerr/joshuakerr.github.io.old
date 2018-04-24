@@ -32,6 +32,7 @@ http://www.socialmatter.net/2017/06/12/how-to-catch-a-wife/
 http://www.socialmatter.net/2017/06/09/call-wild-revolt-modernity/
 
 #### Other
+http://goodparent.org/corporal-punishment/research-on-corporal-punishment/evidence-favoring-the-use-of-disciplinary-spanking/
 
 #### Homeschooling
 
@@ -46,3 +47,6 @@ http://www.theimaginativeconservative.org/2018/02/emotions-primer-george-stanciu
 https://www.amazon.com/Doctrina-Christiana-Timeless-Catechism-Bellarmine/dp/0692758909/
 https://www.amazon.com/Baltimore-Catechism-Supplemental-Reading-Illustrated-ebook/dp/B00E9IDO9I/
 https://www.amazon.com/Baltimore-Catechism-Explanation-Christian-Doctrine/dp/1406912050/
+
+#### Books
+https://paworldandtimes.wordpress.com/2016/12/17/great-books-for-boys/
