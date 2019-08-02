@@ -40,7 +40,8 @@
           <h1>{{ site.title }}</h1>
           <p>{{ site.description }}</p>
 
-          <p>
+		<!-- decided to move this to the "contact" page
+		<p>
               {% if site.email %}
                   <a href="mailto: {{site.email}}"><i class="fa fa-envelope"></i></a> |
               {% endif %}
@@ -51,12 +52,12 @@
                   <a href="http://{{site.academiaedu}}" target="_blank"><i class="fa fa-graduation-cap"></i> </a> |
               {% endif %}
               {% if site.linkedin %}
-                  <a href="https://in.linkedin.com/in/{{site.linkedin}}" target="_blank"><i class="fa fa-linkedin"></i> </a>
+                  <a href="https://in.linkedin.com/in/{{site.linkedin}}" target="_blank"><i class="fa fa-linkedin"></i> </a> |
               {% endif %}
-              <!-- {% if site.github %}
+              {% if site.github %}
                   <a href="http://github.com/{{site.github}}" target="_blank"><i class="fa fa-github"></i> </a>
-              {% endif %} -->
-          </p>
+              {% endif %}
+	    </p> -->
 
 		  <div class="portrait">
               <p><img src="{{site.baseurl}}/images/portrait-small.png" width="50%" alt="Portrait"></p>
