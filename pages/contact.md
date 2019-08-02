@@ -6,28 +6,13 @@
 
 ## Contact Me
 
-Please feel free to get in touch!
+The best way to contact me is by <a href="mailto: {{site.email}}"><i class="fa fa-envelope"> email</i></a>.
 
+Postal correspondence should be directed to the University of Oregon:
 
+Joshua Kerr<br>
+Department of Philosophy<br>
+University of Oregon<br>
+Eugene, OR 97403<br>
 
-<p>{% if site.email %}<a href="mailto: {{site.email}}"><i class="fa fa-envelope"> // email</i></a> {% endif %}</p>
-
-<p>{% if site.website %}<a href="http://{{site.website}}" target="_blank"><i class="fa fa-globe"></i> // website</a>{% endif %}</p>
-
-    {% if site.academiaedu %}
-	   <a href="http://{{site.academiaedu}}" target="_blank"><i class="fa fa-graduation-cap"></i> </a> |
-    {% endif %}
-    {% if site.linkedin %}
-	   <a href="https://in.linkedin.com/in/{{site.linkedin}}" target="_blank"><i class="fa fa-linkedin"></i> </a> |
-    {% endif %}
-    {% if site.github %}
-	   <a href="http://github.com/{{site.github}}" target="_blank"><i class="fa fa-github"></i> </a>
-    {% endif %}
-</p>
-
-jkerr@uoregon.edu
-
-Joshua Kerr
-Department of Philosophy
-University of Oregon
-Eugene, OR 97403
+I maintain social media profiles at <a href="http://{{site.academiaedu}}" target="_blank"><i class="fa fa-graduation-cap"></i> Academia.edu</a> and <a href="https://in.linkedin.com/in/{{site.linkedin}}" target="_blank"><i class="fa fa-linkedin"></i> LinkedIn</a>, and you are welcome to peruse my <a href="http://github.com/{{site.github}}" target="_blank"><i class="fa fa-github"></i> GitHub</a> profile.
