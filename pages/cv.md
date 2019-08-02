@@ -57,6 +57,8 @@
 ## Invited Talks
 1. "Thinking Through Sound: Martin Heidegger and Wallace Stevens," California State University, Stanislaus, September 28, 2017
 
+---
+
 ## Conference Presentations
 1. "Aristotle and the Hubris of Plant Life," Collegium Phaenomenologicum Participants Conference, Città di Castello, Italy, July 7-8, 2018
 1. "The Body of Language: Thinking Through Sound," The Ninth Annual Meeting of The Pacific Association for the Continental Tradition, University of San Francisco, September 28-30, 2017
