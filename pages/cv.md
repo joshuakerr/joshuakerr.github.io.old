@@ -8,12 +8,15 @@
 
 #### Areas of Specialization
 - Philosophy of Nature and Environment (esp. vegetality)
-- Philosophy of Literature
+- 19th-20th Century European Philosophy
+- Ancient Philosophy
 
 #### Areas of Competence
-- Ancient Philosophy
-- 19th-20th Century European Philosophy
 - History of Western Philosophy
+- Philosophy of Literature and Language
+- Feminist Philosophy
+- Latin American Philosophy
+- Logic
 
 ---
 
@@ -32,43 +35,24 @@
 - *Summa Cum Laude*, with Honors
 - Thesis: *The Concept of Wildness in the Poetry of Gary Snyder* (Dr. James A. Tuedio)
 
----
-
-## Teaching
-
-#### University of Oregon
-- W19:	Plants and Philosophy
-- F18:	Environmental Philosophy
-- S18:	Philosophy in Literature
-- W18: Humanities II*
-- F17: Humanities I*
-- S17: Ethics (PHIL 102)*
-- W17: Existentialism*
-- F16: Humanities I*
-- S16: Philosophy and Pop Culture
-- ​W16: Environmental Philosophy*
-- F15: Ethics of Enterprise and Exchange
-- S15: Critical Reasoning
-- W15: Critical Reasoning*
-- F14: Philosophical Problems*
-
-#### California State University, Stanislaus
-- S11: Introduction to Philosophy*
-- F10: Nature, Revisited: Environmental Issues in Philosophical Perspective*
-- F10: Introduction to Composition
-- S10: First-Year Composition, Computer-Assisted Instruction
-- F09: First-Year Composition, Computer-Assisted Instruction
-- S09: First-Year Composition
-- F08: Introduction to Composition
-
-\* *denotes graduate teaching assistant responsibilities rather than solo teaching.*
+#### Research Languages
+- English (native fluency)
+- Classical Greek
+- German
 
 ---
 
-## Publications
-1. "Spinoza: From Art to Philosophy," *Philosophy Today* (forthcoming)
-1. "Thinking Through Sound: Martin Heidegger and Wallace Stevens," *Journal of Speculative Philosophy* (forthcoming)
-1. "Philosophical Concepts of Wildness in the Poetry of Gary Snyder," *Entries: A Journal of Exploratory Research,* a publication of the CSU Stanislaus University Honors Program (May 2007) , pp. 1-8.
+## Selected Grants, Fellowships, & Recognitions
+- Oregon Humanities Center Dissertation Fellowship (2019-2020)
+- Department of Philosophy Graduate Fellow: Research (Spring 2019)
+- Oregon Humanities Center Graduate Research Support Fellowship (2018-2019)
+- Participant in the Collegium Phaenomenologicum in Città di Castello, Italy (2018)
+- Gary E. Smith Summer Professional Development Award (Summer 2018)
+- Philosophy Matters Prize for best graduate student essay (2017-2018)
+- Interdisciplinary Studies Graduate Fellowship, CSU Stanislaus (2010-2011)
+- Outstanding Student in Philosophy, CSU Stanislaus (2006-2007)
+
+---
 
 ## Invited Talks
 1. "Thinking Through Sound: Martin Heidegger and Wallace Stevens," California State University, Stanislaus, September 28, 2017
