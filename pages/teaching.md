@@ -9,6 +9,8 @@ As a teacher, I believe philosophy to be an art of interpreting and transforming
 
 My teaching experience also includes courses in the broader humanities, such as history and classics, and English composition at both remedial and first-year levels.
 
+The syllabi that I write emphasize giving students a strong background in seminal texts in the history while also enriching that background through overlooked and marginalized perspectives from outside the traditional canon.
+
 #### Teaching at the University of Oregon
 - F19: Ancient Philosophy*
 - Sum19: Ethics
