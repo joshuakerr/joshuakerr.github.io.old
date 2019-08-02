@@ -6,13 +6,14 @@
 
 ## Contact Me
 
-<p>
-	{% if site.email %}
-	   <a href="mailto: {{site.email}}"><i class="fa fa-envelope"></i></a> |
-    {% endif %}
-    {% if site.website %}
-	   <a href="http://{{site.website}}" target="_blank"><i class="fa fa-globe"></i> </a> |
-    {% endif %}
+Please feel free to get in touch!
+
+
+
+<p>{% if site.email %}<a href="mailto: {{site.email}}"><i class="fa fa-envelope"> // email</i></a> {% endif %}</p>
+
+<p>{% if site.website %}<a href="http://{{site.website}}" target="_blank"><i class="fa fa-globe"></i> // website</a>{% endif %}</p>
+
     {% if site.academiaedu %}
 	   <a href="http://{{site.academiaedu}}" target="_blank"><i class="fa fa-graduation-cap"></i> </a> |
     {% endif %}
