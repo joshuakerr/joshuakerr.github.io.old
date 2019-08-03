@@ -2,9 +2,6 @@
 /* ============= */
 /* == General == */
 body {
-  background-image: url("/images/circle.png");
-  background-repeat: no-repeat;
-  background-position: right top;
   background-color: #fff;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
@@ -13,7 +10,7 @@ body {
 
 div.big-wrapper {
     padding: 50px;
-    padding-top: 100px; /* extra room for floating nav */
+    padding-top: 150px; /* extra room for floating nav */
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -126,6 +123,7 @@ section p {
 section img {
 	max-width:100%;
 	float: right;
+	padding: 10px;
 }
 
 small {
@@ -159,8 +157,7 @@ strong {
     padding: 0;
     padding-right: 20px;
     overflow: hidden;
-    background-color: transparent;
-    /* background-color: #ffffff; */
+    background-color: #ffffff;
 }
 
 .main-nav li {
