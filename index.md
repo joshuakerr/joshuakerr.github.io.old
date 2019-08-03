@@ -6,6 +6,9 @@
 
 ## Welcome
 
+<div class="portrait">
+    <p><img src="{{site.baseurl}}/images/portrait-small.png" width="50%" alt="Portrait"></p>
+</div>
 
 I am a student of the history of philosophy, a researcher, and a [teacher.]({{ site.url }}/pages/teaching.html)
 
