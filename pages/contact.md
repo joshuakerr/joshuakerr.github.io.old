@@ -4,7 +4,7 @@
     tagline: Contact
 ---
 
-## Contact Me
+## Contact
 
 The best way to contact me is by <a href="mailto: {{site.email}}"><i class="fa fa-envelope"></i></a> email.
 
