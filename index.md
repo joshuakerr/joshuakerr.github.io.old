@@ -7,7 +7,7 @@
 ## Welcome
 
 
-I am a student of the history of philosophy, a researcher, and a [dedicated teacher.]({{ site.url }}/pages/teaching.html)
+I am a student of the history of philosophy, a researcher, and a [teacher.]({{ site.url }}/pages/teaching.html)
 
 My research focuses on two primary areas. First, I study environmental philosophy, particularly the philosophy of plants. Drawing both on broadly interdisciplinary approaches to plant life and the role of plants in the history of philosophy, I am interested in the challenges plants pose to traditional approaches to ontology and ethics. For more information, see my [dissertation research page.]({{ site.url }}/pages/dissertation.html)
 
