@@ -159,7 +159,8 @@ strong {
     padding: 0;
     padding-right: 20px;
     overflow: hidden;
-    background-color: #ffffff;
+    background-color: transparent;
+    /* background-color: #ffffff; */
 }
 
 .main-nav li {
