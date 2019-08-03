@@ -177,6 +177,8 @@ strong {
 /* == Header == */
 header {
   width:270px;
+  background-image: url("images/vines.png");
+  background-repeat: no-repeat;
   background-color:#FFFFFF;
   float:left;
   position:fixed;
