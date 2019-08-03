@@ -123,6 +123,11 @@ section p {
     text-align: justify;
 }
 
+section img {
+	max-width:100%;
+	float: right;
+}
+
 small {
   font-size:11px;
 }
