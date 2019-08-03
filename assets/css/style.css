@@ -2,9 +2,9 @@
 /* ============= */
 /* == General == */
 body {
-	background-image: url("/images/circle.png");
-	background-repeat: no-repeat;
-	background-position: right top;
+  background-image: url("/images/circle.png");
+  background-repeat: no-repeat;
+  background-position: right top;
   background-color: #fff;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
