@@ -10,7 +10,7 @@ body {
 
 div.big-wrapper {
     padding: 50px;
-    padding-top: 150px; /* extra room for floating nav */
+    padding-top: 200px; /* extra room for floating nav */
 }
 
 h1, h2, h3, h4, h5, h6 {
