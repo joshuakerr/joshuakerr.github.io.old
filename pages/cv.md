@@ -45,3 +45,18 @@
 1. "Rodolfo Kusch's Philosophical Logic," Trans-American Experience Conference, University of Oregon, November 5-6, 2015
 1. "Comets and Volcanoes: Calvino and the Festivity of Language," The Seventh Annual Meeting of The Pacific Association for the Continental Tradition, Seattle University, September 24-26, 2015
 1. "Philosophical Concepts of Wildness in the Poetry of Gary Snyder," CSU Honors Consortium Student Conference Aesthetics Panel, CSU Fresno, March 3, 2007
+
+---
+
+## Service
+- Graduate Representative, Graduate Program Revision Committee (2019)
+- Graduate Representative, Committee of the Whole (2018-2019)
+- Managing Editor, *The Thinking Duck* (department newsletter) (2017-2018)
+- Undergraduate Advisor (Summer 2017)
+- Developed and maintained a computer algorithm solution for assigning graduate student offices on the basis of expressed preferences and seniority (2016-present)
+- Graduate Representative, Committee on Diversity and Inclusion (2016-2017)
+- Undergraduate Advisor (2016-2017)
+- Undergraduate Advisor (Summer 2016)
+- Graduate Representative, Graduate Studies Committee (2015-2016)
+- Undergraduate Advisor (Summer 2015)
+- Graduate Representative, Committee of the Whole (2014-2015)
