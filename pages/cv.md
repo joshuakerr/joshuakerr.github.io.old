@@ -4,22 +4,6 @@
     tagline: Curriculum Vitae
 ---
 
-## Background
-
-#### Areas of Specialization
-- Philosophy of Nature and Environment (esp. vegetality)
-- 19th-20th Century European Philosophy
-- Ancient Philosophy
-
-#### Areas of Competence
-- History of Western Philosophy
-- Philosophy of Literature and Language
-- Feminist Philosophy
-- Latin American Philosophy
-- Logic
-
----
-
 ## Education
 
 #### PhD., Philosophy, University of Oregon (in progress)
@@ -34,11 +18,6 @@
 #### B.A., Philosophy, California State University Stanislaus (2007)
 - *Summa Cum Laude*, with Honors
 - Thesis: *The Concept of Wildness in the Poetry of Gary Snyder* (Dr. James A. Tuedio)
-
-#### Research Languages
-- English (native fluency)
-- Classical Greek
-- German
 
 ---
 
