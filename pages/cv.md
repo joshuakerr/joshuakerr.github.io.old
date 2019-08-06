@@ -53,7 +53,7 @@
 - Graduate Representative, Committee of the Whole (2018-2019)
 - Managing Editor, *The Thinking Duck* (department newsletter) (2017-2018)
 - Undergraduate Advisor (Summer 2017)
-- Developed and maintained a computer algorithm solution for assigning graduate student offices on the basis of expressed preferences and seniority (2016-present)
+- Developed and maintained a computer algorithm solution for assigning graduate student offices on the basis of preferences and seniority (2016-present)
 - Graduate Representative, Committee on Diversity and Inclusion (2016-2017)
 - Undergraduate Advisor (2016-2017)
 - Undergraduate Advisor (Summer 2016)

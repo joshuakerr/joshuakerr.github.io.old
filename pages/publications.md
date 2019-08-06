@@ -4,7 +4,7 @@
     tagline: Curriculum Vitae
 ---
 
-## Publications
+## Refereed Journal Articles
 
 #### “Spinoza: From Art to Philosophy,” *Philosophy Today* 64:1 (Winter 2020, forthcoming)
 
@@ -17,7 +17,3 @@
 #### “Phytology, Between Φύσις and Ζώη,” *Kronos Philosophical Journal* (2019, forthcoming)
 
 >I argue that Aristotle's study of plant life articulates a different kind of life that has more in common with nature (φύσις) than animal life (ζώη).
-
-#### “Philosophical Concepts of Wildness in the Poetry of Gary Snyder,” *Entries: A Journal of Exploratory Research* (May 2007), pp. 1-8.
-
->This paper traces the outlines of a philosophical conception of "wildness" in Gary Snyder's prose writings and, especially, his poetry.
