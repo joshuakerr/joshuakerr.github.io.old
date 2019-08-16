@@ -2,11 +2,11 @@ theme: jekyll-theme-minimal
 gems:
   - jekyll-sitemap
 
-title: "Joshua Kerr"
+title: "Joshua D. Kerr"
 description: "Ph.D. Candidate<br>in Philosophy<br>University of Oregon"
 
 email: jkerr@uoregon.edu
-website: joshuakerr.github.io
+website: joshuakerr.net
 github: joshuakerr
 linkedin: kerrjoshua
-academiaedu: uoregon.academia.edu/JoshuaKerr
+academiaedu: uoregon.academia.edu/JoshuaDKerr

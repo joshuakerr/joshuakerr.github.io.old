@@ -10,7 +10,7 @@ The best way to contact me is by <a href="mailto: {{site.email}}"><i class="fa f
 
 Postal correspondence should be directed to the University of Oregon:
 
-Joshua Kerr<br>
+Joshua D. Kerr<br>
 Department of Philosophy<br>
 University of Oregon<br>
 Eugene, OR 97403<br>
