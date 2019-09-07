@@ -9,33 +9,25 @@ As a teacher, I believe philosophy to be an art of interpreting and transforming
 
 My teaching experience also includes courses in the broader humanities, such as history and classics, and English composition at both remedial and first-year levels.
 
-The syllabi that I write emphasize giving students a strong background in seminal texts in the history while also enriching that background through overlooked and marginalized perspectives from outside the traditional canon.
+I have done original curriculum design for twelve courses, including one course proposal to add a new class to my department's upper division course offerings ("Plants and Philosophy"). The syllabi that I write emphasize giving students a strong background in seminal texts in the history while also enriching that background through overlooked and marginalized perspectives from outside the traditional canon.
 
-#### Teaching at the University of Oregon
-- F19: Ancient Philosophy*
-- Sum19: Ethics
-- W19: Plants and Philosophy
-- F18: Environmental Philosophy
-- S18: Philosophy in Literature
-- W18: Humanities II*
-- F17: Humanities I*
-- S17: Ethics*
-- W17: Existentialism*
-- F16: Humanities I*
-- S16: Philosophy and Pop Culture
-- ​W16: Environmental Philosophy*
-- F15: Ethics of Enterprise and Exchange
-- S15: Critical Reasoning
-- W15: Critical Reasoning*
-- F14: Philosophical Problems*
+#### Selected Courses Designed and Taught (Upper Division)
+- Plants and Philosophy
+- Environmental Philosophy
+- Philosophy in Literature
 
-#### Teaching at California State University, Stanislaus
-- S11: Introduction to Philosophy*
-- F10: Nature, Revisited: Environmental Issues in Philosophical Perspective*
-- F10: Introduction to Composition
-- S10: First-Year Composition, Computer-Assisted Instruction
-- F09: First-Year Composition, Computer-Assisted Instruction
-- S09: First-Year Composition
-- F08: Introduction to Composition
+#### Selected Courses Designed and Taught (Lower Division)
+- Logic and Critical Thinking
+- Critical Reasoning
+- Ethics
+- Ethics of Enterprise and Exchange
+- Philosophy and Pop Culture
+- Introduction to Composition
 
-\* *denotes graduate teaching assistant responsibilities rather than solo teaching.*
+#### Selected Courses Assisted (Teaching Assistant)
+- Ancient Philosophy
+- Existentialism
+- Humanities: Medieval World
+- Humanities: Ancient World
+- Philosophical Problems
+- Introduction to Philosophy
