@@ -1,6 +1,5 @@
-theme: jekyll-theme-minimal
-gems:
-  - jekyll-sitemap
+remote_theme: joshuakerr/academic
+gem: "academic"
 
 title: "Joshua D. Kerr"
 description: "Ph.D. Candidate<br>in Philosophy<br>University of Oregon"
