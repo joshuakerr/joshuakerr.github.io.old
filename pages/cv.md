@@ -5,10 +5,9 @@
 
 ## Education
 
-#### PhD., Philosophy, University of Oregon (in progress)
+PhD., Philosophy, University of Oregon (in progress)
 - Dissertation: *The Hybris of Plants: Reinterpreting Philosophy through Vegetal Life* (Dr. Daniela Vallega-Neu & Dr. Alejandro Vallega)
-
-#### M.A., Philosophy and Literary Studies, California State University Stanislaus (2014)
+M.A., Philosophy and Literary Studies, California State University Stanislaus (2014)
 - Thesis: *The Imperceptibility of Plant Living* (Dr. Jason Winfree)
 
 #### B.A., Philosophy, California State University Stanislaus (2007)
