@@ -3,7 +3,9 @@
     title: C.V.
 ---
 
-## Education
+*(For additional information, see [teaching]({{ site.url }}/pages/teaching.html).)*
+
+### Education
 
 PhD., Philosophy, University of Oregon (expected 2020)
 
@@ -13,7 +15,7 @@ B.A., Philosophy, California State University Stanislaus (2007, *Summa Cum Laude
 
 ---
 
-## Selected Grants, Fellowships, & Recognitions
+### Selected Grants, Fellowships, & Recognitions
 - Oregon Humanities Center Dissertation Fellowship (2019-2020)
 - Department of Philosophy Graduate Fellow: Research (Spring 2019)
 - Oregon Humanities Center Graduate Research Support Fellowship (2018-2019)
@@ -25,7 +27,7 @@ B.A., Philosophy, California State University Stanislaus (2007, *Summa Cum Laude
 
 ---
 
-## Refereed Journal Articles
+### Refereed Journal Articles
 
 1. “Spinoza: From Art to Philosophy,” *Philosophy Today* 64:1 (Winter 2020, forthcoming)
 1. “Thinking Through Sound: Martin Heidegger and Wallace Stevens,” *Journal of Speculative Philosophy* (Winter 2020, forthcoming)
@@ -33,12 +35,12 @@ B.A., Philosophy, California State University Stanislaus (2007, *Summa Cum Laude
 
 ---
 
-## Invited Talks
+### Invited Talks
 1. "Thinking Through Sound: Martin Heidegger and Wallace Stevens," California State University, Stanislaus, September 28, 2017
 
 ---
 
-## Conference Presentations
+### Conference Presentations
 1. "Phytological Tensions in Aristotle’s On the Soul," Northwest Ancient Philosophy Conference, University of Oregon, September 21, 2019
 1. "Spinoza: From Art to Philosophy," Northwest Philosophy Conference, Bellevue College, October 19-20, 2018
 1. "Aristotle and the Hubris of Plant Life," Collegium Phaenomenologicum Participants Conference, Città di Castello, Italy, July 7-8, 2018
@@ -49,7 +51,7 @@ B.A., Philosophy, California State University Stanislaus (2007, *Summa Cum Laude
 
 ---
 
-## Selected Departmental Service
+### Selected Departmental Service
 - Graduate Representative, Graduate Program Revision Committee (2019)
 - Graduate Representative, Committee of the Whole (2018-2019)
 - Managing Editor, *The Thinking Duck* (department newsletter) (2017-2018)
@@ -58,7 +60,3 @@ B.A., Philosophy, California State University Stanislaus (2007, *Summa Cum Laude
 - Graduate Representative, Graduate Studies Committee (2015-2016)
 - Undergraduate Advisor for Incoming Freshmen (2015-2017)
 - Graduate Representative, Committee of the Whole (2014-2015)
-
----
-
-For additional information, see [publications]({{ site.url }}/pages/publications.html) and [teaching]({{ site.url }}/pages/teaching.html).
