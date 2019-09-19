@@ -5,6 +5,8 @@
 
 *(For additional information, see [teaching]({{ site.url }}/pages/teaching.html).)*
 
+---
+
 ### Education
 
 PhD., Philosophy, University of Oregon (expected 2020)
