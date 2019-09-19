@@ -21,7 +21,6 @@
 - Outstanding Student in Philosophy, CSU Stanislaus (2006-2007)
 
 ### Refereed Journal Articles
-
 - “Spinoza: From Art to Philosophy,” *Philosophy Today* 64:1 (Winter 2020, forthcoming)
 - “Thinking Through Sound: Martin Heidegger and Wallace Stevens,” *Journal of Speculative Philosophy* (Winter 2020, forthcoming)
 - “Phytology, Between Φύσις and Ζώη,” *Kronos Philosophical Journal* (2019, forthcoming)
