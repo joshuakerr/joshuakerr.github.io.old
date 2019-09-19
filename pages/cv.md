@@ -1,7 +1,6 @@
 ---
     layout: page
-    title: C.V.
-    tagline: Curriculum Vitae
+    title: Curriculum Vitae
 ---
 
 ## Education
@@ -30,17 +29,14 @@
 
 ---
 
-## Service
+## Selected Departmental Service
 - Graduate Representative, Graduate Program Revision Committee (2019)
 - Graduate Representative, Committee of the Whole (2018-2019)
 - Managing Editor, *The Thinking Duck* (department newsletter) (2017-2018)
-- Undergraduate Advisor (Summer 2017)
-- Developed and maintained a computer algorithm solution for assigning graduate student offices on the basis of preferences and seniority (2016-present)
 - Graduate Representative, Committee on Diversity and Inclusion (2016-2017)
-- Undergraduate Advisor (2016-2017)
-- Undergraduate Advisor (Summer 2016)
+- Undergraduate Advisor for Philosophy (2016-2017)
 - Graduate Representative, Graduate Studies Committee (2015-2016)
-- Undergraduate Advisor (Summer 2015)
+- Undergraduate Advisor for Incoming Freshmen (2015-2017)
 - Graduate Representative, Committee of the Whole (2014-2015)
 
 ---
