@@ -7,26 +7,9 @@ layout: default
 
     <img class="user-picture" src="{{ site.url }}/images/portrait-small.png" alt="{{ site.author }}">
 
-    <ul class="footer-col footer-col-1">
-	 <li>
-	   {% include _i18n/sitetitle.html %}
-
-	 {% if site.author_display %}
-	 <span class="author">
-	   {{ i18n.by[plang] }}
-	   {% if site.author_website %}
-	   <a target="_blank" href="{% include _i18n/i18n.html value=site.author_website %}">{{ site.author }}</a>
-	   {% else %}
-	   {{ site.author }}
-	   {% endif %}
-	 </span>
-	 </li>
-	 {% endif %}
-
-	 {% if site.description %}
-	 <li>{% include _i18n/i18n.html value=site.description %}</li>
-	 {% endif %}
-    </ul>
+	{% if site.description %}
+		{% include _i18n/i18n.html value=site.description %}</li>
+	{% endif %}
 
     <ul class="contact-list">
       {% if site.email %}
