@@ -20,7 +20,7 @@ I have done original curriculum design for twelve courses, including one course 
 - Philosophy and Pop Culture
 - Introduction to Composition
 
-#### Selected Courses Assisted (Teaching Assistant)
+#### Selected Courses Assisted (TA)
 - Ancient Philosophy
 - Existentialism
 - Humanities: Medieval World

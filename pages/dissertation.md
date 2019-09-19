@@ -3,13 +3,11 @@
     title: Dissertation
 ---
 
-
-
+<br>
 ### The Hybris of Plants: Reinterpreting Philosophy through Vegetal Life
 
 {% include image.html src="/images/Urpflanze.png"
-                      caption="Urpflanze"
-                      desc="Geothe's *Urpflanze*" %}
+                      caption="Goethe's Urpflanze" %}
 
 My dissertation project explores the role of plant life in the history of western philosophy and the specific challenges vegetality poses to traditional philosophical thought. Commonplace as they may appear in our lives, few philosophers have concerned themselves with plants, and those who have done so have found precious little to say on the subject. Nevertheless, the handful of philosophers in the western tradition who take up the question of vegetal existence do so under the conviction that plants are a particularly suitable place to begin a project of philosophical inquiry. Aristotle, for example, reproaches his predecessors for erroneous theories of life precisely on the grounds that they neglected plants and therefore got started on the wrong foot. He suggests that plants, as the simplest and barest forms of life, are worthy of thoughtful consideration because they constitute a fruitful beginning for the analysis of living things. At the same time, however, these same philosophers are ultimately unable to give an account of vegetal existence. In Aristotle’s philosophy, for instance, plants quickly vanish, leaving a trace only as underdeveloped animals. Philosophy, then, has found itself inadequate to the task of thinking through plants.
 
