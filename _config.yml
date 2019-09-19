@@ -1,8 +1,8 @@
 remote_theme: academic
 gem: "academic"
 
-title: "Joshua D. Kerr"
-description: "Ph.D. Candidate<br>in Philosophy<br>University of Oregon"
+title_html: "<b>Joshua</b>D.<b>Kerr</b>"
+description: "Ph.D. Candidate<br>Department of Philosophy<br>University of Oregon"
 
 email: jkerr@uoregon.edu
 website: joshuakerr.net
