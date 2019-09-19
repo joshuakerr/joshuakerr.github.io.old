@@ -3,7 +3,7 @@
     title: Dissertation
 ---
 
----
+
 
 ### The Hybris of Plants: Reinterpreting Philosophy through Vegetal Life
 

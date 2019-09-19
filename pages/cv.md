@@ -5,8 +5,6 @@
 
 *(For additional information, see [teaching]({{ site.url }}/pages/teaching.html).)*
 
----
-
 ### Education
 - PhD., Philosophy, University of Oregon (expected 2020)
 - M.A., Philosophy and Literary Studies, California State University Stanislaus (2014)
