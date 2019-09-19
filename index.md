@@ -1,7 +1,6 @@
 ---
     layout: about
     title: Joshua Kerr
-    tagline: Joshua Kerr
 ---
 
 I am a student of the history of philosophy, a researcher, and a [teacher.]({{ site.url }}/pages/teaching.html)
