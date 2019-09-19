@@ -42,23 +42,17 @@
         {% include _i18n/lang_selector.html %}
       {% endif %}
 
-      <div class="tech">
-        <a target="_blank" href="https://jekyllrb.com/">Jekyll</a> + <a target="_blank" href="https://github.com/gaalcaras/academic">Academic</a>
-        {% if site.repo %}
-        + <a target="_blank" href="{{ site.repo }}">Source</a>
-        {% endif %}
-      </div>
-
       <div class="legal">
       {% if site.cc == null %}©{% endif %}
       {% include _i18n/sitetitle.html %}
       {% assign oldest_post = site.posts reversed | first %}
       {% assign oldest = oldest_post.date | date: "%Y" %}
       {% assign newest = site.time | date: "%Y" %}
-      ({% if oldest != newest %}{{ oldest }}-{% endif %}{{ newest }})
+      <!-- ({% if oldest != newest %}{{ oldest }}-{% endif %}{{ newest }}) -->
+	 ({{ newest })
       {% if site.author and site.author_display %}
         {{ i18n.legal[plang][0] }}
-        <a target="_blank" href="{% include _i18n/i18n.html value=site.author_website %}">{{ site.author }}</a> 
+        <a target="_blank" href="{% include _i18n/i18n.html value=site.author_website %}">{{ site.author }}</a>
       {% endif %}
       {% if site.cc %}
         {{ i18n.legal[plang][1] }}
@@ -77,4 +71,3 @@
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 {% endif %}
-
