@@ -1,7 +1,6 @@
 ---
     layout: page
     title: Teaching
-    tagline: Teaching
 ---
 
 ## Teaching

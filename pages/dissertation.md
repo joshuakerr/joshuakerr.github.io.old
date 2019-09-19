@@ -1,7 +1,6 @@
 ---
     layout: page
-    title: Dissertation Research
-    tagline: Research Project Description
+    title: Dissertation
 ---
 
 ## The Hybris of Plants: Reinterpreting Philosophy through Vegetal Life
