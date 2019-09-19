@@ -1,6 +1,6 @@
 _site/
+old-_layouts/
+old-assets/
 .sass-cache
 .jekyll-metadata
 Gemfile.lock
-archive.7z
-gtf-assignments/
