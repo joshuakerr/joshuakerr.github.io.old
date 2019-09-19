@@ -1,5 +1,5 @@
 ---
-    layout: default
+    layout: page
     title: Dissertation Research
     tagline: Research Project Description
 ---
