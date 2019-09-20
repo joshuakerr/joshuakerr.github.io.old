@@ -3,10 +3,10 @@
     title: Research
 ---
 
-<br>
 ### Dissertation
 
 #### _The Hybris of Plants: Reinterpreting Philosophy through Vegetal Life_
+<br>
 
 <!-- {% include image.html src="/images/Urpflanze.png"
                       caption="Goethe's Urpflanze" %} -->
