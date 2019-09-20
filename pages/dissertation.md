@@ -4,7 +4,7 @@
 ---
 
 <br>
-### The Hybris of Plants: Reinterpreting Philosophy through Vegetal Life
+#### The Hybris of Plants: Reinterpreting Philosophy through Vegetal Life
 
 {% include image.html src="/images/Urpflanze.png"
                       caption="Goethe's Urpflanze" %}
