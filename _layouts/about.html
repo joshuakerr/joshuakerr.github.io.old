@@ -8,7 +8,9 @@ layout: default
     <img class="user-picture" src="{{ site.url }}/images/portrait-small.png" alt="{{ site.author }}">
 
 	{% if site.description %}
-		{% include _i18n/i18n.html value=site.description %}</li>
+	<ul class="contact-list">
+		{% include _i18n/i18n.html value=site.description %}
+	</ul>
 	{% endif %}
 
     <ul class="contact-list">
