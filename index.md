@@ -1,6 +1,6 @@
 ---
     layout: about
-    title: Joshua Kerr
+    title: Welcome
     invisible: true
 ---
 
