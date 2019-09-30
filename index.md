@@ -5,6 +5,6 @@
 ---
 
 <br>
-I am a student of the history of philosophy, a researcher, and a teacher.
+I am a doctoral candidate at the University of Oregon studying ancient philosophy and 19th-20th century Contintenal philosophy. 
 
-My research focuses on two primary areas. First, I study environmental philosophy, particularly the philosophy of plants. Drawing both on broadly interdisciplinary approaches to plant life and the role of plants in the history of philosophy, I am interested in the challenges plants pose to traditional approaches to ontology and ethics. Second, I study the philosophy of literature, particularly poetry. I am interested in the relationship between literature, language, and non-linguistic expression, especially as it emerges in 20th century Continental philosophers such as Heidegger, Merleau-Ponty, and Deleuze. In this respect, I also study literary writers such as Wallace Stevens and Italo Calvino.
+My primary research project focuses on philosophy of nature, especially vegetality. Drawing on broadly interdisciplinary approaches to plant life, I engage the history of philosophy with an eye for the challenges plants pose to traditional approaches to ontology and ethics. I also work in the philosophy of language and literature, where I focus upon the embodied physicality of language and the complications it poses for philosophical reflection.
