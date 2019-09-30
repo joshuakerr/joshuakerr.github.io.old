@@ -6,9 +6,9 @@
 *(For additional information, see [teaching]({{ site.url }}/pages/teaching.html).)*
 
 #### Education
-- PhD., Philosophy, University of Oregon (expected 2020)
-- M.A., Philosophy and Literary Studies, California State University Stanislaus (2014)
-- B.A., Philosophy, California State University Stanislaus (2007, *Summa Cum Laude*, with Honors)
+1. PhD., Philosophy, University of Oregon (expected 2020)
+1. M.A., Philosophy and Literary Studies, California State University Stanislaus (2014)
+1. B.A., Philosophy, California State University Stanislaus (2007, *Summa Cum Laude*, with Honors)
 
 #### Selected Grants, Fellowships, & Recognitions
 - Oregon Humanities Center Dissertation Fellowship (2019-2020)
@@ -21,9 +21,9 @@
 - Outstanding Student in Philosophy, CSU Stanislaus (2006-2007)
 
 #### Refereed Journal Articles
-- “Spinoza: From Art to Philosophy,” *Philosophy Today* 64:1 (Winter 2020, forthcoming)
-- “Thinking Through Sound: Martin Heidegger and Wallace Stevens,” *Journal of Speculative Philosophy* (Winter 2020, forthcoming)
-- “Phytology, Between Φύσις and Ζώη,” *Kronos Philosophical Journal* (2019, forthcoming)
+1. “Spinoza: From Art to Philosophy,” *Philosophy Today* 64:1 (Winter 2020, forthcoming)
+1. “Thinking Through Sound: Martin Heidegger and Wallace Stevens,” *Journal of Speculative Philosophy* (Winter 2020, forthcoming)
+1. “Phytology, Between Φύσις and Ζώη,” *Kronos Philosophical Journal* (2019, forthcoming)
 
 #### Invited Talks
 - "Thinking Through Sound: Martin Heidegger and Wallace Stevens," California State University, Stanislaus, September 28, 2017
