@@ -118,9 +118,15 @@ li {
   }
 }
 
-// added custom styling for bullets here. use <li><span>•</span><p>
+// added custom styling for bullets here.
 ul {
-  list-style-type: circle;
+    list-style: outside circle none; 
+    margin-left: 0; 
+    padding-left: 1em;
+}
+
+li {
+    padding-left: 1em;
 }
 // end custom
 
