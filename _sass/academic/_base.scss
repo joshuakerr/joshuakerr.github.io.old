@@ -119,14 +119,14 @@ li {
 }
 
 // added custom styling for bullets here.
-ul {
+ol {
     list-style-type: none; 
     margin-left: 0; 
     padding-left: 1em;
     text-indent: -2em;
 }
 
-li {
+ol li {
     padding-left: 1em;
 }
 // end custom
