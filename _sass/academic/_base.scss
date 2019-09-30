@@ -120,21 +120,7 @@ li {
 
 // added custom styling for bullets here. use <li><span>•</span><p>
 ul {
-  color: #ccc;
-  list-style-type: none;
-}
-
-ul li {
-  position: relative;
-  margin-bottom: 5px;
-}
-
-li p {
-  padding-left: 40px;
-}
-
-span {
-  position: absolute;
+  list-style-type: circle;
 }
 // end custom
 
