@@ -12,7 +12,8 @@ My research explores the role that plant life plays in philosophical discourses 
 The next stage of my research agenda expands my work on vegetality from the ontological questions of my dissertation research to ethical questions concerning plant life and human-plant relations. In the context of Greek philosophy, plant life has an under-theorized but significant place in the origin of ethical reflection. Beginning with the concept of vegetal *hybris* developed in my dissertation, I will articulate questions concerning the ethical place of human beings in the cosmos vis-à-vis plant life, suggesting that plants offer a corrective challenge to traditionally anthropocentric ethical and cosmological theories.
 
 ### Dissertation
-1. _The Hybris of Plants: Reinterpreting Philosophy through Vegetal Life_
+
+*The Hybris of Plants: Reinterpreting Philosophy through Vegetal Life*
 
 <!-- {% include image.html src="/images/Urpflanze.png"
                       caption="Goethe's Urpflanze" %} -->
