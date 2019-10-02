@@ -120,7 +120,7 @@ li {
 
 // added custom styling for bullets here.
 ol {
-    @include size(small);
+    @include size(vsmall);
     list-style-type: none;
     margin-left: 0; 
     padding-left: 1em;
