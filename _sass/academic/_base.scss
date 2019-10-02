@@ -119,6 +119,10 @@ li {
 }
 
 // added custom styling for bullets here.
+ul {
+  list-style-type: circle;
+}
+
 ol {
     @include size(small);
     list-style-type: none;
