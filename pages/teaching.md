@@ -10,19 +10,19 @@ Philosophy can be understood as an art of interpreting and transforming the worl
 I have designed original curriculum for twelve courses, including one course proposal to add a new class to my department's upper division course offerings ("Plants and Philosophy"). The syllabi that I write emphasize giving students a strong background in seminal texts in the history while also enriching that background through overlooked and marginalized perspectives from outside the traditional canon.
 
 #### Examples of Courses Designed and Taught
-- Plants and Philosophy
-- Environmental Philosophy
-- Philosophy in Literature
-- Logic and Critical Thinking
-- Ethics
-- Ethics of Enterprise and Exchange
-- Philosophy and Pop Culture
-- Introduction to Composition
+1. Plants and Philosophy
+1. Environmental Philosophy
+1. Philosophy in Literature
+1. Logic and Critical Thinking
+1. Ethics
+1. Ethics of Enterprise and Exchange
+1. Philosophy and Pop Culture
+1. Introduction to Composition
 
 #### Examples of Courses Assisted (T.A.)
-- Ancient Philosophy
-- Existentialism
-- Humanities: Medieval World
-- Humanities: Ancient World
-- Philosophical Problems
-- Introduction to Philosophy
+1. Ancient Philosophy
+1. Existentialism
+1. Humanities: Medieval World
+1. Humanities: Ancient World
+1. Philosophical Problems
+1. Introduction to Philosophy
