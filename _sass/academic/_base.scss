@@ -120,6 +120,7 @@ li {
 
 // added custom styling for bullets here.
 ol {
+    @include size(small);
     list-style-type: none;
     margin-left: 0; 
     padding-left: 1em;
@@ -128,7 +129,6 @@ ol {
 
 ol li {
     padding-left: 1em;
-    font-size: $small-font-size;
 }
 // end custom
 
