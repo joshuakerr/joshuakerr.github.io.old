@@ -3,7 +3,7 @@
     title: C.V.
 ---
 
-*(For additional information, see [teaching]({{ site.url }}/pages/teaching.html).)*
+1. (See also: [teaching]({{ site.url }}/pages/teaching.html).)
 
 #### Education
 1. PhD., Philosophy, University of Oregon (expected 2020)
