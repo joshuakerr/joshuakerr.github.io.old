@@ -157,19 +157,14 @@ h2 {
 }
 
 h3 {
-  font-family: $base-font-family;
-}
-
-h3, h4{
+  font-family: $alt-font-family;
   font-weight: normal;
-}
-
-h3 {
-  font-weight:bold;
   @include size(h3);
 }
 
 h4 {
+  font-family: $alt-font-family;
+  font-weight: normal;
   @include size(h4);
 }
 
