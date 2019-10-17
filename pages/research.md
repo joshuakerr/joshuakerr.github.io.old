@@ -3,7 +3,7 @@
     title: Research
 ---
 
-{% include image.html src="/images/research-head.png" %}
+<!-- {% include image.html src="/images/research-head.png" %} -->
 
 ### Research Trajectory
 
