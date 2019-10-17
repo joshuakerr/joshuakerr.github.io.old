@@ -5,6 +5,8 @@
 
 ### Research Trajectory
 
+<!-- {% include image.html src="/images/research-head.png" caption="Vines" %} -->
+
 My current research studies concepts of nature, life, and soul by focusing on the place of plant life. I develop an investigation into the foundational and ambiguous place of the vegetal in the history of philosophy and ultimately seek to recover from that history new possibilities for thought. My research focuses especially on ancient Greek and recent Continental philosophy (especially phenomenology and hermeneutics) in a way that complements contemporary discussions concerning nature and the environment.
 
 The first stage of this project focuses on the ontology of vegetal life. Over the next two years, I will complete a book manuscript revising and expanding my dissertation research (see below). In the second stage of this project, my studies will turn from the ontological sense
