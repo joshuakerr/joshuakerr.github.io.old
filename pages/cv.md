@@ -29,6 +29,8 @@
 1. "Thinking Through Sound: Martin Heidegger and Wallace Stevens," California State University, Stanislaus, September 28, 2017
 
 #### Conference Presentations
+1. "Vegetal Temporalities,"" American Philosophical Association, Pacific Division, Western Phenomenology Conference, San Francisco, California, April 8-11, 2020
+1. "Hegel’s Double Discourse Concerning Vegetal Life,"" 71st Annual Northwest Philosophy Conference, Pacific University, October 25-26, 2019
 1. "Phytological Tensions in Aristotle’s On the Soul," Northwest Ancient Philosophy Conference, University of Oregon, September 21, 2019
 1. "Spinoza: From Art to Philosophy," Northwest Philosophy Conference, Bellevue College, October 19-20, 2018
 1. "Aristotle and the Hubris of Plant Life," Collegium Phaenomenologicum Participants Conference, Città di Castello, Italy, July 7-8, 2018

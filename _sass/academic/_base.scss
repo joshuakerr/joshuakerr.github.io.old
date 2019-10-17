@@ -121,7 +121,7 @@ li {
 // added custom styling for bullets here.
 ol {
     list-style-type: none;
-    margin-left: 0; 
+    margin-left: 0;
     padding-left: 1em;
     text-indent: -2em;
 }
@@ -154,6 +154,7 @@ h1,h2 {
 
 h2 {
   @include size(h2);
+  color: $brand-color; // added as custom
 }
 
 h3 {
