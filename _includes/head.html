@@ -6,6 +6,10 @@
 
   <link href="https://fonts.googleapis.com/css?family=PT+Serif|Raleway:300&display=swap" rel="stylesheet">
 
+  {% if site.google_analytics %}
+  {% include analytics.html %}
+  {% endif %}
+
   <title>Joshua D. Kerr</title>
 
   {% if page.seo.description %}
@@ -70,9 +74,5 @@
   {% endif %}
 
   {% if jekyll.environment == 'production' %}
-  {% endif %}
-
-  {% if site.google_analytics %}
-  {% include analytics.html %}
   {% endif %}
 </head>
