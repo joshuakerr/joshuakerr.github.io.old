@@ -1,6 +1,7 @@
 ---
     layout: page
     title: Diversity
+    invisible: true
 ---
 
 ### Overview
