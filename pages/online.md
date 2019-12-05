@@ -1,6 +1,6 @@
 ---
     layout: page
-    title: Diversity and Teaching
+    title: Online Instruction
     invisible: true
 ---
 
