@@ -1,6 +1,6 @@
 ---
     layout: page
-    title: Diversity
+    title: Diversity and Teaching
     invisible: true
 ---
 
